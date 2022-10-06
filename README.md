@@ -1,1 +1,8 @@
-# react-budget_app
+# React Budget App
+
+To run:
+
+```
+npm install 
+npm start 
+```
